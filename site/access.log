@@ -1,0 +1,5 @@
+172.22.160.1 - - [15/Jun/2023:13:13:18 +0300] "GET / HTTP/1.1" 200 6554 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+172.22.160.1 - - [15/Jun/2023:13:13:18 +0300] "GET /favicon.ico HTTP/1.1" 404 2477 "https://the-arabian.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+172.22.160.1 - - [15/Jun/2023:13:13:51 +0300] "GET / HTTP/1.1" 200 4298 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+172.22.160.1 - - [15/Jun/2023:13:13:55 +0300] "GET / HTTP/1.1" 200 3786 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+172.22.160.1 - - [15/Jun/2023:13:14:07 +0300] "GET / HTTP/1.1" 200 4298 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"

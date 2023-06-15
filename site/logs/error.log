@@ -1,0 +1,7 @@
+[Thu Jun 15 12:41:57.017856 2023] [ssl:warn] [pid 6809:tid 139941199685504] AH01909: LAPTOP-ISA4VQBE.:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 15 12:49:39.798850 2023] [ssl:warn] [pid 22976:tid 140352922720128] AH01909: LAPTOP-ISA4VQBE.:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 15 12:55:25.612951 2023] [ssl:warn] [pid 22976:tid 140352922720128] AH01909: LAPTOP-ISA4VQBE.:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 15 13:05:42.759516 2023] [ssl:warn] [pid 22976:tid 140352922720128] AH01909: LAPTOP-ISA4VQBE.:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 15 13:05:57.072192 2023] [ssl:warn] [pid 46598:tid 140472729024384] AH01909: LAPTOP-ISA4VQBE.:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 15 13:05:57.077034 2023] [ssl:warn] [pid 46599:tid 140472729024384] AH01909: LAPTOP-ISA4VQBE.:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 15 10:13:18.780980 2023] [wsgi:error] [pid 46600:tid 140472575415872] [remote 172.22.160.1:58320] Not Found: /favicon.ico
